@@ -1,7 +1,7 @@
 const alunos = [
     {nameAluno: "Marcos ", ra: " 321098230-8"},
-    {nameAluno: "Marcos ", ra: " 321098230-8"},
-    {nameAluno: "Marcos ", ra: " 321098230-8"}
+    {nameAluno: "Julia ", ra: " 321098900-7"},
+    {nameAluno: "Ana ", ra: " 321098231-2"}
 ]
 const cursos = [
     {nameCurso: "Engenharia ", duracao: "4 anos"},
